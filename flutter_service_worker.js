@@ -28,14 +28,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "208bdc38e339450642fa19a5a2b6845a
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "1a51aef2c07efcc5fa6cc58cd0da3f4c",
+"flutter_bootstrap.js": "f6fe95fcb65abee8a60b2f5ffee87dd3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "6cf94660f0c6312e314789bea51047ca",
 "/": "6cf94660f0c6312e314789bea51047ca",
-"main.dart.js": "bb163face2e4683ac7c5eb80545d7430",
+"main.dart.js": "0d481bb523a9e25b23d72b2f65e88229",
 "manifest.json": "d330f9c5126cc6b9faf5a655f7146b6a",
 "version.json": "177b92206cd5253628e94a89f66c7c71"};
 // The application shell files that are downloaded before a service worker can
@@ -208,3 +208,4 @@ function onlineFirst(event) {
     })
   );
 }
+
